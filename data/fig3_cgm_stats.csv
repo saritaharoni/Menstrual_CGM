@@ -1,0 +1,73 @@
+notebook,analysis,metric,n_subjects,n_observations,lrt_statistic,lrt_p,fdr_p,perm_p,n_perms,confirmed_trend,verdict
+iglu_all_metrics,cgm_cycle_glmm_Q1,Q1,209,2113,10.5643,0.0319,0.0766,,,False,NO TREND
+iglu_all_metrics,cgm_cycle_glmm_Q3,Q3,209,2113,8.478,0.0756,0.126,,,False,NO TREND
+iglu_all_metrics,cgm_cycle_glmm_ABOVE_140,ABOVE_140,209,2113,1.9396,0.7469,0.7682,,,False,NO TREND
+iglu_all_metrics,cgm_cycle_glmm_BELOW_70,BELOW_70,209,2113,9.7065,0.0457,0.0987,,,False,NO TREND
+iglu_all_metrics,cgm_cycle_glmm_IN_RANGE_63_140,IN_RANGE_63_140,209,2113,9.3353,0.0532,0.1009,,,False,NO TREND
+iglu_all_metrics,cgm_cycle_glmm_IN_RANGE_70_180,IN_RANGE_70_180,209,2113,9.657,0.0466,0.0987,,,False,NO TREND
+iglu_all_metrics,cgm_cycle_glmm_ADRR,ADRR,209,2113,14.1987,0.0067,0.0363,0.13,10000.0,True,NON-SPECIFIC
+iglu_all_metrics,cgm_cycle_glmm_AUC,AUC,209,2113,7.5167,0.111,0.1665,,,False,NO TREND
+iglu_all_metrics,cgm_cycle_glmm_COGI,COGI,209,2113,6.3871,0.172,0.1998,,,False,NO TREND
+iglu_all_metrics,cgm_cycle_glmm_CV,CV,209,2113,19.4712,0.0006,0.0222,0.0092,10000.0,True,CONFIRMED TREND
+iglu_all_metrics,cgm_cycle_glmm_EA1C,EA1C,209,2113,8.3217,0.0805,0.126,,,False,NO TREND
+iglu_all_metrics,cgm_cycle_glmm_GMI,GMI,209,2113,8.3218,0.0805,0.126,,,False,NO TREND
+iglu_all_metrics,cgm_cycle_glmm_GRADE,GRADE,209,2113,13.227,0.0102,0.0363,0.2615,10000.0,True,NON-SPECIFIC
+iglu_all_metrics,cgm_cycle_glmm_GRADE_EUGLY,GRADE_EUGLY,209,2113,6.9815,0.1369,0.1825,,,False,NO TREND
+iglu_all_metrics,cgm_cycle_glmm_GRADE_HYPER,GRADE_HYPER,209,2113,1.7023,0.7903,0.7903,,,False,NO TREND
+iglu_all_metrics,cgm_cycle_glmm_GRADE_HYPO,GRADE_HYPO,209,2113,6.6095,0.158,0.1998,,,False,NO TREND
+iglu_all_metrics,cgm_cycle_glmm_GVP,GVP,209,2113,13.5538,0.0089,0.0363,0.0505,10000.0,True,NON-SPECIFIC
+iglu_all_metrics,cgm_cycle_glmm_HBGI,HBGI,209,2113,5.284,0.2594,0.2746,,,False,NO TREND
+iglu_all_metrics,cgm_cycle_glmm_HYPER_INDEX,HYPER_INDEX,209,2113,5.3218,0.2558,0.2746,,,False,NO TREND
+iglu_all_metrics,cgm_cycle_glmm_HYPO_INDEX,HYPO_INDEX,209,2113,6.4611,0.1673,0.1998,,,False,NO TREND
+iglu_all_metrics,cgm_cycle_glmm_IGC,IGC,209,2113,6.4443,0.1683,0.1998,,,False,NO TREND
+iglu_all_metrics,cgm_cycle_glmm_IQR,IQR,209,2113,9.4966,0.0498,0.0996,,,False,NO TREND
+iglu_all_metrics,cgm_cycle_glmm_J_INDEX,J_INDEX,209,2113,5.7959,0.2149,0.2418,,,False,NO TREND
+iglu_all_metrics,cgm_cycle_glmm_LBGI,LBGI,209,2113,7.2214,0.1246,0.1726,,,False,NO TREND
+iglu_all_metrics,cgm_cycle_glmm_M_VALUE,M_VALUE,209,2113,11.618,0.0204,0.0566,,,False,NO TREND
+iglu_all_metrics,cgm_cycle_glmm_MAD,MAD,209,2113,11.8967,0.0181,0.0544,,,False,NO TREND
+iglu_all_metrics,cgm_cycle_glmm_MAG,MAG,209,2113,16.8531,0.0021,0.0222,0.0095,10000.0,True,CONFIRMED TREND
+iglu_all_metrics,cgm_cycle_glmm_MAGE,MAGE,209,2113,15.9531,0.0031,0.0222,0.0152,10000.0,True,CONFIRMED TREND
+iglu_all_metrics,cgm_cycle_glmm_MIN,MIN,209,2113,13.0739,0.0109,0.0363,0.2755,10000.0,True,NON-SPECIFIC
+iglu_all_metrics,cgm_cycle_glmm_MAX,MAX,209,2113,7.331,0.1194,0.1719,,,False,NO TREND
+iglu_all_metrics,cgm_cycle_glmm_MEAN,MEAN,209,2113,8.3207,0.0805,0.126,,,False,NO TREND
+iglu_all_metrics,cgm_cycle_glmm_MEDIAN,MEDIAN,209,2113,11.2497,0.0239,0.0614,,,False,NO TREND
+iglu_all_metrics,cgm_cycle_glmm_RANGE,RANGE,209,2113,16.3101,0.0026,0.0222,0.0147,10000.0,True,CONFIRMED TREND
+iglu_all_metrics,cgm_cycle_glmm_SD,SD,209,2113,16.3329,0.0026,0.0222,0.0139,10000.0,True,CONFIRMED TREND
+iglu_all_metrics,cgm_cycle_glmm_SD_ROC,SD_ROC,209,2113,13.0366,0.0111,0.0363,0.0533,10000.0,True,NON-SPECIFIC
+iglu_all_metrics,cgm_cycle_glmm_SDWSH,SDWSH,209,2113,13.3167,0.0098,0.0363,0.047,10000.0,True,CONFIRMED TREND
+men_iglu_calendar,cgm_cycle_glmm_Q1,Q1,209,2238,7.0377,0.1339,0.3013,,,False,NO TREND
+men_iglu_calendar,cgm_cycle_glmm_Q3,Q3,209,2238,10.774,0.0292,0.1315,,,False,NO TREND
+men_iglu_calendar,cgm_cycle_glmm_ABOVE_140,ABOVE_140,209,2238,3.3623,0.4991,0.599,,,False,NO TREND
+men_iglu_calendar,cgm_cycle_glmm_BELOW_70,BELOW_70,209,2238,4.003,0.4056,0.5407,,,False,NO TREND
+men_iglu_calendar,cgm_cycle_glmm_IN_RANGE_63_140,IN_RANGE_63_140,209,2238,0.6858,0.9531,0.9666,,,False,NO TREND
+men_iglu_calendar,cgm_cycle_glmm_IN_RANGE_70_180,IN_RANGE_70_180,209,2238,1.5378,0.8199,0.8681,,,False,NO TREND
+men_iglu_calendar,cgm_cycle_glmm_ADRR,ADRR,209,2238,3.7875,0.4355,0.5407,,,False,NO TREND
+men_iglu_calendar,cgm_cycle_glmm_AUC,AUC,209,2238,12.4552,0.0143,0.1286,,,False,NO TREND
+men_iglu_calendar,cgm_cycle_glmm_COGI,COGI,209,2238,5.2878,0.259,0.4662,,,False,NO TREND
+men_iglu_calendar,cgm_cycle_glmm_CV,CV,209,2238,2.3105,0.6789,0.7406,,,False,NO TREND
+men_iglu_calendar,cgm_cycle_glmm_EA1C,EA1C,209,2238,11.1436,0.025,0.1286,,,False,NO TREND
+men_iglu_calendar,cgm_cycle_glmm_GMI,GMI,209,2238,11.1442,0.025,0.1286,,,False,NO TREND
+men_iglu_calendar,cgm_cycle_glmm_GRADE,GRADE,209,2238,4.0966,0.3931,0.5407,,,False,NO TREND
+men_iglu_calendar,cgm_cycle_glmm_GRADE_EUGLY,GRADE_EUGLY,209,2238,0.5673,0.9666,0.9666,,,False,NO TREND
+men_iglu_calendar,cgm_cycle_glmm_GRADE_HYPER,GRADE_HYPER,209,2238,8.8982,0.0637,0.1787,,,False,NO TREND
+men_iglu_calendar,cgm_cycle_glmm_GRADE_HYPO,GRADE_HYPO,209,2238,8.9717,0.0618,0.1787,,,False,NO TREND
+men_iglu_calendar,cgm_cycle_glmm_GVP,GVP,209,2238,6.4844,0.1658,0.3315,,,False,NO TREND
+men_iglu_calendar,cgm_cycle_glmm_HBGI,HBGI,209,2238,13.4575,0.0092,0.1286,,,False,NO TREND
+men_iglu_calendar,cgm_cycle_glmm_HYPER_INDEX,HYPER_INDEX,209,2238,11.3589,0.0228,0.1286,,,False,NO TREND
+men_iglu_calendar,cgm_cycle_glmm_HYPO_INDEX,HYPO_INDEX,209,2238,9.6348,0.047,0.1787,,,False,NO TREND
+men_iglu_calendar,cgm_cycle_glmm_IGC,IGC,209,2238,8.8662,0.0645,0.1787,,,False,NO TREND
+men_iglu_calendar,cgm_cycle_glmm_IQR,IQR,209,2238,3.8634,0.4248,0.5407,,,False,NO TREND
+men_iglu_calendar,cgm_cycle_glmm_J_INDEX,J_INDEX,209,2238,11.4804,0.0217,0.1286,,,False,NO TREND
+men_iglu_calendar,cgm_cycle_glmm_LBGI,LBGI,209,2238,3.926,0.4161,0.5407,,,False,NO TREND
+men_iglu_calendar,cgm_cycle_glmm_M_VALUE,M_VALUE,209,2238,2.4915,0.6462,0.7269,,,False,NO TREND
+men_iglu_calendar,cgm_cycle_glmm_MAD,MAD,209,2238,5.0363,0.2836,0.4862,,,False,NO TREND
+men_iglu_calendar,cgm_cycle_glmm_MAG,MAG,209,2238,7.6494,0.1053,0.2691,,,False,NO TREND
+men_iglu_calendar,cgm_cycle_glmm_MAGE,MAGE,209,2238,4.4762,0.3454,0.5407,,,False,NO TREND
+men_iglu_calendar,cgm_cycle_glmm_MIN,MIN,209,2238,2.564,0.6332,0.7269,,,False,NO TREND
+men_iglu_calendar,cgm_cycle_glmm_MAX,MAX,209,2238,6.6386,0.1563,0.3309,,,False,NO TREND
+men_iglu_calendar,cgm_cycle_glmm_MEAN,MEAN,209,2238,11.1431,0.025,0.1286,,,False,NO TREND
+men_iglu_calendar,cgm_cycle_glmm_MEDIAN,MEDIAN,209,2238,8.9108,0.0634,0.1787,,,False,NO TREND
+men_iglu_calendar,cgm_cycle_glmm_RANGE,RANGE,209,2238,4.2407,0.3744,0.5407,,,False,NO TREND
+men_iglu_calendar,cgm_cycle_glmm_SD,SD,209,2238,4.4132,0.353,0.5407,,,False,NO TREND
+men_iglu_calendar,cgm_cycle_glmm_SD_ROC,SD_ROC,209,2238,7.4908,0.1121,0.2691,,,False,NO TREND
+men_iglu_calendar,cgm_cycle_glmm_SDWSH,SDWSH,209,2238,5.7876,0.2156,0.4085,,,False,NO TREND

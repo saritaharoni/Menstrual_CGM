@@ -1,0 +1,44 @@
+Characteristic,n,Women (N = 209)
+Demographic,,
+  Age (years),209,43.2 (5.2)
+Anthropometric,,
+  BMI (kg/m²),209,24.3 (3.7)
+  Waist circumference (cm),208,78.4 (9.8)
+  Sitting BP systolic (mmHg),209,109.3 (13.8)
+  Sitting BP diastolic (mmHg),209,72.5 (10.0)
+Blood tests,,
+  HbA1C (%),54,5.2 (0.3)
+  Triglycerides (mg/dL),98,84.6 (38.2)
+  HDL cholesterol (mg/dL),98,60.1 (13.1)
+  LDL cholesterol (mg/dL),40,108.8 (28.6)
+  Total cholesterol (mg/dL),99,184.6 (30.4)
+  ALT\GPT (u/l),113,16.0 (7.2)
+  AST\GOT (u/l),97,19.5 (4.6)
+  GGT (u/l),43,18.8 (13.5)
+  eGFR,114,90.8 (15.0)
+DXA scan,,
+  Android tissue fat percent (%),201,35.8 (10.7)
+  Scanned VAT mass (g),176,529.0 (443.2)
+  Total fat mass (g),201,23191.2 (7768.3)
+Fundus imaging,,
+  Average width (pixels),150,17084.0 (1067.0)
+  Fractal dimension,150,1.5 (0.0)
+  Vessel density,150,0.08 (0.01)
+Ultrasound,,
+  Liver sound speed (m/s),188,1554.7 (27.2)
+  Liver viscosity (Pa.s),188,1.6 (0.2)
+  Liver elasticity (kPa),188,4.7 (0.9)
+  Liver attenuation (dB/cm/MHz),188,0.38 (0.11)
+  Carotid - intima media thickness (mm),188,0.51 (0.07)
+Sleep monitoring,,
+  ODI,186,1.4 (1.4)
+  AHI,186,4.0 (3.8)
+  RDI,186,9.9 (4.8)
+  Mean oxygen saturation,186,95.6 (0.8)
+  Total sleep time (hr),188,6.2 (1.2)
+  Total wake time (hr),188,0.70 (0.31)
+Nutrition,,
+  Median daily protein caloric intake (%),209,0.17 (0.04)
+  Median daily lipid caloric intake (%),209,0.38 (0.07)
+  Median daily carbohydrate caloric intake (%),209,0.45 (0.09)
+  Median daily caloric intake (kcal),209,1546.8 (418.1)

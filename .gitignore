@@ -1,0 +1,5 @@
+data/restricted/*
+!data/restricted/README.md
+.ipynb_checkpoints/
+__pycache__/
+*.pyc
