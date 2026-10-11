@@ -1,5 +1,7 @@
 # Menstrual cycle dynamics of CGM metrics and diet in non-diabetic women: figure code
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23293488.svg)](https://doi.org/10.5281/zenodo.23293488)
+
 Code that reproduces Figures 2–6 and Table 1 of the manuscript from pre-computed analysis results.
 
 ## Contents
@@ -36,6 +38,9 @@ The Settings cell lists every input and whether it is present. Figures 3 and 6 r
 | `baseline_covariates.csv` | restricted, not in repository |
 | `fig4_meals.pkl` | restricted, not in repository |
 | `table1.csv` | Table 1 (written by the notebook) |
+
+## Citation
+If you use this code, please cite the archived release: https://doi.org/10.5281/zenodo.23293488
 
 ## Data availability
 The raw CGM, diet-logging and clinical data come from the Human Phenotype Project (HPP) and
